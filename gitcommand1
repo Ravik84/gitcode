@@ -1,6 +1,6 @@
 # gitcode
 
- Github Remote repository creation	 
+1 Github Remote repository creation	 
 2 - Git configuration 
 3 	- local [.git/config] 
 4 		$git config --local user.name 'yugandhar'  
